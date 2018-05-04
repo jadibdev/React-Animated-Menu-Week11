@@ -28,10 +28,7 @@ var main = (
       <div className="menuItem psu"><a href="https://www.amazon.com/gp/product/B01AG9F0G8/ref=ox_sc_act_title_3?smid=ATVPDKIKX0DER&psc=1">OS:<span>Windows 10</span></a></div>
     </div>
     <div>
-      <h1 className="main-title">Specs</h1>
-      <h1 className="main-title">Built</h1>
-      <h1 className="main-title">From</h1>
-      <h1 className="main-title">Scratch</h1>
+    <h1 className="main-title">Build Your PC From Scratch Using Specs From The Animated Menu On The Left</h1>
     </div>
   </div>
 );
